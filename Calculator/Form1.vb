@@ -4,7 +4,9 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btn_sqrt.Click
-
+        Dim sqrt As Double
+        sqrt = Convert.ToDouble(display.Text)
+        display.Text = Convert.ToString(Math.Sqrt(sqrt))
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btn_clear.Click
