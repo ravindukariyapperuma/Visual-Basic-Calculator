@@ -1,1 +1,11 @@
 C:\Users\Hp\Desktop\VB\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.Calcutator.resources
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Hp\Desktop\VB\Calculator\Calculator\obj\Debug\Calculator.pdb
